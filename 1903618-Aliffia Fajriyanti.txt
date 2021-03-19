@@ -1,0 +1,15 @@
+Saya Aliffia Fajriyanti
+mengerjakan TP 2 dalam mata kuliah DPBO untuk keberkahanNya 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
+hal baru yang saya dapat; saya tau bagaimana memakai IDE java, ternyata netbeans lebih ringan daripada intellij idea, terus juga lebih mudah memahami flow program java dibanding c#.
+
+Kesulitan dalam mengerjakan tugas ini mengumpulkan niat, memahami alur progam, membuat panel yang menumpuk, menambahkan image ternyata pake properties aja, dan mencari 'codingan' yang benar untuk mencapai tujuan karena saya kurang paham kalo baca dokumentasinya.
+
+Fitur yang dikerjakan :
+- sudah memiliki 3 panel untuk tombol yang diminta
+- dapat melakukan insert data kedalam database
+- display data pada tabel sudah bersumber dari database
+- sudah menambahkan foto pribadi
+
+sekian, terima kasih kang.
